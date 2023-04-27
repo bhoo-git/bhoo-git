@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhoo-git!
 - 👀 I’m interested in AI/ML, Object Recognition...and also Sports analytics as a hobby.
-- 🌱 I’m currently Deep Learning, Visual Learning and Recognition, Multimodal ML, etc.
+- 🌱 I’m currently learning about Deep Learning, Visual Learning and Recognition, Multimodal ML, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at bhoo.work@gmail.com.
 
